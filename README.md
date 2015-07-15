@@ -1,6 +1,6 @@
 # messages-ios
 
-Simple iPhone app for sending and receiving messages. Makes use of [messages-api](https://github.com/johnymontana/messages-ap)
+Simple iPhone app for sending and receiving messages. Makes use of [messages-api](https://github.com/johnymontana/messages-api)
 
 ## Dependencies
 
